@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+models/
+captures/
+*.mp4
+uv.lock
