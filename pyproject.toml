@@ -1,7 +1,7 @@
 [project]
 name = "stachchanclaw"
 version = "0.1.0"
-description = "Face search and centering controller for WebcamChan using UHD."
+description = "Face search and centering controller for WebcamChan."
 readme = "README.md"
 requires-python = ">=3.11,<3.13"
 dependencies = [
